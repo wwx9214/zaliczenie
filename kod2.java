@@ -13,6 +13,7 @@ public class kod2 {
 		int input2 = skan.nextInt();
 		int output = input1 + input2;
 		System.out.println(input1 + " + " + input2 + " = " + output);
+		System.out.println("Zmiana #2");
 	}
 
 }
